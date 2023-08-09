@@ -1,7 +1,7 @@
-### Oi oii! Eu sou Milene Alexandre, aspirante a desenvolvedora front-end!
+### Oi oii! Eu sou Milene Alexandre, aspirante a desenvolvedora back-end!
 
 - 🔭 Atualmente faço o curso de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudando front-end.
+- 🌱 Estudando back-end.
 - 📫 Contate-me pelo e-mail: milenealexandre03@gmail.com
 - 😄 Pronouns: ela/dela
 
