@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/mialexandre">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mialexandre&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=merko" alt="Milene Alexandre github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mialexandre&layout=compact&theme=merko" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mialexandre&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" alt="Milene Alexandre github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mialexandre&layout=compact&theme=radical" />
 </div>
 
 <div style="display: inline_block"><br>
