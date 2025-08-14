@@ -1,9 +1,8 @@
-### Oi oii! Eu sou Milene Melo, aspirante a desenvolvedora back-end!
+### Eu sou Milene Melo, aspirante a desenvolvedora back-end!
 
 - 🔭 Atualmente faço os cursos de Engenharia de Software e Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando back-end.
-- 📫 Contate-me pelo e-mail: milenealexandre03@gmail.com
-- 😄 Pronouns: ela/dela
+- 📫 Contate-me pelo e-mail: milene.melo.dev@gmail.com
 
 ##
 
