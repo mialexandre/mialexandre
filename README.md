@@ -20,6 +20,8 @@
   <img align="center" alt="Milene-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Milene-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Milene-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Milene-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" />
+  <img align="center" alt="Milene-Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
 </div>
 
 ##
